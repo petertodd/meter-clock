@@ -1,3 +1,6 @@
 [submodule "hard"]
 	path = hard
 	url = git://git.petertodd.org/meter-clock.hard.git 
+[submodule "firm"]
+	path = firm
+	url = git://git.petertodd.org/meter-clock.firm.git
