@@ -1,0 +1,3 @@
+[submodule "hard"]
+	path = hard
+	url = git://git.petertodd.org/meter-clock.hard.git 
